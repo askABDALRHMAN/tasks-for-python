@@ -1,0 +1,32 @@
+
+المشكله 
+
+Little Petya loves presents. His mum bought 
+him two strings of the same size for his birthday. 
+The strings consist of uppercase and lowercase 
+Latin letters. Now Petya wants to compare those two 
+strings lexicographically. The letters' case does 
+not matter, that is an uppercase letter is considered 
+equivalent to the corresponding lowercase letter. 
+Help Petya perform the comparison.
+
+
+
+
+////////////////////////////////////////////////////////
+هو باختصار بيعمل 3 حاجات
+
+بياخد سطرين (strings) من المستخدم.
+
+بيحوّل كل الحروف في السطرين لـ حروف صغيرة عشان يقارن من غير ما يفرق بين a و A
+
+بعد كد بيطبع علي حسب الطول و الترتيب:
+
+0 لو متساويين
+
+-1 لو الأول أصغر
+
+1 لو الأول أكبر
+
+وبس كده.
+لو عايز تشوف الكود كامل، هتلاقيه في الملف اللي اسمه petya_and_strings.py.
